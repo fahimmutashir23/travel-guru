@@ -1,0 +1,67 @@
+[
+    {
+      "id": 1,
+      "spot_name": "Sundarbans",
+      "description": "The Sundarbans is a UNESCO World Heritage Site and the largest mangrove forest in the world, located in southwestern Bangladesh. It is a unique ecosystem where the land meets the sea, teeming with diverse flora and fauna. The dense mangrove trees, winding waterways, and thriving wildlife make it a must-visit destination for nature enthusiasts. You can spot the iconic Bengal tiger, saltwater crocodiles, and a wide variety of bird species. Exploring the Sundarbans by boat is an unforgettable experience, offering a chance to immerse yourself in the breathtaking beauty of this natural wonder.",
+      "vertical_banner_image": "https://i.ibb.co/zFxjjFb/sundorbon.png",
+      "horizontal_banner_image": "https://i.ibb.co/fHTML8Y/Rectangle-28.png"
+    },
+    {
+      "id": 2,
+      "spot_name": "Cox's Bazar",
+      "description": "Cox's Bazar is renowned for having one of the longest sandy sea beaches in the world, stretching for approximately 120 kilometers along the southeastern coastline of Bangladesh. The azure waters of the Bay of Bengal wash ashore this picturesque beach, making it a popular destination for sun-seekers and beach lovers. Besides the beach, visitors can explore Himchari National Park, Inani Beach, and St. Martin's Island, all offering unique experiences. The vibrant culture and delicious seafood of Cox's Bazar add to the charm of this coastal paradise.",
+      "vertical_banner_image": "https://i.ibb.co/ZBqjG1T/Sreemongol.png",
+      "horizontal_banner_image": "https://i.ibb.co/fHTML8Y/Rectangle-28.png"
+    },
+    {
+      "id": 3,
+      "spot_name": "Sajek Valley",
+      "description": "Nestled in the Chittagong Hill Tracts, Sajek Valley is a serene and scenic destination known for its lush green landscapes and cool, refreshing climate. The valley is surrounded by hills and is home to the indigenous Khasi people. Travelers can enjoy trekking, explore the Khasi villages, and take in panoramic views of the hills. Sajek Valley is a perfect retreat for those seeking tranquility and a break from the hustle and bustle of city life.",
+      "vertical_banner_image": "https://i.ibb.co/rkzWC6D/Sajek.png",
+      "horizontal_banner_image": "https://i.ibb.co/QDrVt6q/Rectangle-1.png"
+    },
+    {
+      "id": 4,
+      "spot_name": "Bandarban",
+      "description": "Ratnodweep Island, also known as the 'Island of Jewels,' is a hidden gem in the Bay of Bengal. It's famous for its pristine beaches, coral reefs, and crystal-clear waters, making it a paradise for snorkelers and divers. The island is relatively untouched by mass tourism, allowing visitors to experience its natural beauty in solitude. As you explore the underwater world, you'll encounter vibrant marine life and colorful corals that are sure to leave you in awe.",
+      "vertical_banner_image": "https://i.ibb.co/ZBqjG1T/Sreemongol.png",
+      "horizontal_banner_image": "https://i.ibb.co/QDrVt6q/Rectangle-1.png"
+    },
+    {
+      "id": 5,
+      "spot_name": "Srimangal",
+      "description": "Srimangal, often called the 'Tea Capital of Bangladesh,' is a charming town located in the Sylhet Division. It's renowned for its sprawling tea gardens, where you can take leisurely walks amidst lush greenery and learn about the tea production process. The Lawachara National Park, home to diverse wildlife and bird species, is also nearby. Don't miss the opportunity to savor the world-famous Srimangal tea while enjoying the tranquility of this picturesque region.",
+      "vertical_banner_image": "https://i.ibb.co/ZBqjG1T/Sreemongol.png",
+      "horizontal_banner_image": "https://i.ibb.co/qyWMBXW/Rectangle-26.png"
+    },
+    {
+      "id": 6,
+      "spot_name": "Rangamati",
+      "description": "Rangamati is a stunning hill district in southeastern Bangladesh, known for its serene lakes and breathtaking landscapes. The Kaptai Lake, an artificial reservoir, is the centerpiece of this region and offers boating and water sports. The indigenous Chakma and Marma communities reside here, enriching the area's cultural diversity. Exploring the lush green hills, visiting tribal villages, and enjoying the tranquil ambiance make Rangamati a perfect getaway for nature lovers.",
+      "vertical_banner_image": "https://i.ibb.co/ZBqjG1T/Sreemongol.png",
+      "horizontal_banner_image": "https://i.ibb.co/qyWMBXW/Rectangle-26.png"
+    },
+    {
+      "id": 7,
+      "spot_name": "Paharpur",
+      "description": "Paharpur Buddhist Vihara is an ancient archaeological site located in the Naogaon District of Bangladesh. It is the largest Buddhist monastery south of the Himalayas and dates back to the 8th century. The site is a UNESCO World Heritage Site and provides a glimpse into the rich history of Buddhism in the region. Visitors can explore the well-preserved ruins, including the central stupa and monastic cells, while immersing themselves in the spiritual ambiance of this historical gem.",
+      "vertical_banner_image": "https://i.ibb.co/ZBqjG1T/Sreemongol.png",
+      "horizontal_banner_image": "https://i.ibb.co/MS1ywhH/Rectangle-27.png"
+    },
+    {
+      "id": 8,
+      "spot_name": "St. Martin",
+      "description": "Sundarban Khulna is a part of the Sundarbans mangrove forest located in the Khulna region of Bangladesh. It offers a unique opportunity to explore the wilderness of this UNESCO World Heritage Site from a different perspective. Visitors can take boat trips, birdwatching excursions, and guided tours to observe the diverse flora and fauna that call this region home. The tranquil beauty of Sundarban Khulna is sure to leave you spellbound.",
+      "vertical_banner_image": "https://i.ibb.co/ZBqjG1T/Sreemongol.png",
+      "horizontal_banner_image": "https://i.ibb.co/MS1ywhH/Rectangle-27.png"
+    },
+    {
+      "id": 9,
+      "spot_name": "Kuakata",
+      "description": "Kuakata, often referred to as the 'Daughter of the Sea,' is a coastal town in the Patuakhali District. It is famous for its stunning sunrise and sunset views over the Bay of Bengal. The long sandy beach, locally known as 'Daughter's Beach,' is perfect for beachcombing and relaxation. Kuakata is also home to several ancient temples and offers a unique blend of natural beauty and cultural heritage for visitors to enjoy.",
+      "vertical_banner_image": "https://i.ibb.co/ZBqjG1T/Sreemongol.png",
+      "horizontal_banner_image": "https://i.ibb.co/MS1ywhH/Rectangle-27.png"
+    }
+]
+    
+  
