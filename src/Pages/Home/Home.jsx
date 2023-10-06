@@ -13,7 +13,7 @@ AOS.init();
 const Home = () => {
 
   const data = useLoaderData()
-  const [contentData, setContentData] = useState({})
+  const [contentData, setContentData] = useState(data[0])
 
   const handleClick = (id) =>{
     const findData = data.find(oneData=> oneData.id === id);
@@ -44,7 +44,8 @@ const Home = () => {
         <Swiper
           modules={[Navigation, A11y]}
           spaceBetween={50}
-          slidesPerView={3}>
+          loop={true}
+          slidesPerView={2.5}>
 
           {
             data.map(oneData => <SwiperSlide
